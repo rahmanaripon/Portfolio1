@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    
+    "lottie": "https://lottie.host/9b4b469e-5903-418e-a70b-83fe7e3767db/WkEGaIeOQs.json"
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    
+    "lottie": "https://lottie.host/ae1ed0cf-7a8a-4927-b58d-93876684e4d5/6I0MT5om7e.json"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    
+    "lottie": "https://lottie.host/9e7848e6-0b99-4f5d-81c7-71369c1320c0/3O2aTclPUE.json"
+  },
+  {
+    "id": 4,
+    "name": "React Js",
+    
+    "lottie": "https://lottie.host/f6fdaea2-5caa-4f0a-a744-cf2d70fdabb9/f6Cx4ZjnzF.json"
+  },
+  {
+    "id": 5,
+    "name": "GitHub",
+    
+    "lottie": "https://lottie.host/3dfe819f-ec4c-4a90-a96a-bb77c5341070/ojXydwvrEi.json"
+  },
+  {
+    "id": 6,
+    "name": "Tailwind Css",
+    
+    "lottie": "https://lottie.host/b99ae92f-2547-4f3d-bdb1-cb457e927c17/QAWlSAMhaB.json"
+  },
+  {
+    "id": 7,
+    "name": "Bootstrap",
+    
+    "lottie": "https://lottie.host/262fb610-9d3a-4e9d-adf8-a9f4fed345f5/D63Dv3P6qb.json"
+  },
+  {
+    "id": 8,
+    "name": "WordPress",
+    
+    "lottie": "https://lottie.host/a422939f-b306-4d2f-b873-afeb3952690c/gEYWgaEGBv.json"
+  },
+  {
+    "id": 9,
+    "name": "Daisy UI",
+    
+    "lottie": "https://lottie.host/b2f131b7-57d0-4992-8e83-f3fd3e72ad1e/9fiEhgOsRe.json"
+  },
+  {
+    "id": 10,
+    "name": "Material UI",
+    
+    "lottie": "https://lottie.host/4c292921-9d6e-4b1c-b35a-73ad5475e872/cJdGglet3y.json"
+  },
+  {
+    "id": 11,
+    "name": "Sanity CMS",
+    
+    "lottie": "https://lottie.host/72442d58-2d60-49be-8506-0fbc5f75fef2/Jj6ItWKvok.json"
+  },
+  
+  {
+    "id": 12,
+    "name": "Firebase",
+    
+    "lottie": "https://lottie.host/033b90dd-1832-4507-8d94-0a9e4a2fd069/lvHkLnAm7k.json"
+  }
+]

@@ -9,7 +9,7 @@ import { FaFacebookSquare } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <div className="w-screen bg-gray-200">
+    <div className="w-screen bg-gray-200 h-[80vh]">
       <div className="container mx-auto bg-gray-200 ">
         <div className="grid grid-cols-2  ">
           <div className=" pt-5 flex items-center pl-10">
